@@ -11,7 +11,7 @@ Folders:
 
 **NetCDF data**
 
-Data present on the Dropbox folder are about global sea nutrients
+Data present on the Dropbox folder ( `Dropbox/Gloria/Ecuador_Course` )are about global sea nutrients
 Data are downloaded from ftp and they have this format
 
   `mercatorbiomer4v1r1_glo_mean_{valid date}_R{bul date}.nc`
